@@ -23,4 +23,3 @@
   
 </div>
 
-![snake gif](https://github.com/coding-ayko/coding-ayko/blob/output/github-contribution-grid-snake.svg)
