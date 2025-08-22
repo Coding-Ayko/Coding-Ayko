@@ -36,7 +36,7 @@
 
 ---
 
-<img align="right" alt="Study gif" height="190px" src="./src/study.gif">
+<img align="center" alt="Study gif" height="190px" src="./src/study.gif">
 
 ## 📬 Connect with me
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6)](mailto:tauane581730@gmail.com)
@@ -50,8 +50,6 @@
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Coding-Ayko/Coding-Ayko/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Coding-Ayko/Coding-Ayko/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Coding-Ayko/Coding-Ayko/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Coding-Ayko/Coding-Ayko/output/github-contribution-grid-snake.svg">
 </picture>
-
-
