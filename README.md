@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
-### Olá, eu sou a Tauane Carolina!
+ Olá, eu sou a Tauane Carolina!
  <div align="center">
   <a href="https://github.com/coding-ayko">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=coding-ayko&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=false"/>
