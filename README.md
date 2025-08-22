@@ -6,7 +6,6 @@
 
 <img align="center" alt="Header" src="./src/header-gif.gif">
 
----
 
 # 🌸 Olá, eu sou a **Tauane Carolina**!  
 <p align="center">
@@ -16,8 +15,6 @@
 ✨ Apaixonada por tecnologia, dados e interfaces bonitas.
 </p>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -26,16 +23,6 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-ayko&layout=compact&langs_count=7&theme=ambient_gradient"/>
   </a>
 </div>
-
-<img align="right" alt="Study gif" height="190px" src="./src/study.gif">
-
-## 📬 Connect with me
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6)](mailto:tauane581730@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/tauane-carolina-oliveira-miranda-dos-santos-606599244/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/whos.ayko/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://github.com/Coding-Ayko)
-
----
 
 ## 🛠️ My Stack
 
@@ -49,6 +36,16 @@
 
 ---
 
+<img align="right" alt="Study gif" height="190px" src="./src/study.gif">
+
+## 📬 Connect with me
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6)](mailto:tauane581730@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/tauane-carolina-oliveira-miranda-dos-santos-606599244/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/whos.ayko/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://github.com/Coding-Ayko)
+
+---
+
 
 
 <picture align="center">
@@ -56,3 +53,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Coding-Ayko/Coding-Ayko/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Coding-Ayko/Coding-Ayko/output/github-contribution-grid-snake.svg">
 </picture>
+
+
