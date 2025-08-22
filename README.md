@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=⋹+Welcome+to+my+profile!+˙ᵕ˙+⋹" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -8,9 +8,8 @@
 
 ---
 
-## 🌸 Sobre mim
+# 🌸 Olá, eu sou a **Tauane Carolina**!  
 <p align="center">
-Sou a <strong>Tauane Carolina</strong> 👩‍💻<br>
 🎓 Estudante de <strong>Ciência da Computação</strong> no Centro Universitário Barão de Mauá (2023–2026).<br>
 💼 Desenvolvedora <strong>Full Stack</strong> (Laravel, PHP, Vue.js, SQL).<br>
 🌱 Atualmente aprendendo <strong>C#/.NET</strong> e <strong>React.js</strong>.<br>
@@ -18,6 +17,15 @@ Sou a <strong>Tauane Carolina</strong> 👩‍💻<br>
 </p>
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/coding-ayko">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=coding-ayko&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=false"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-ayko&layout=compact&langs_count=7&theme=ambient_gradient"/>
+  </a>
+</div>
 
 <img align="right" alt="Study gif" height="190px" src="./src/study.gif">
 
@@ -41,14 +49,7 @@ Sou a <strong>Tauane Carolina</strong> 👩‍💻<br>
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coding-Ayko&hide_title=true&show_icons=true&include_all_commits=true&count_private=false&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=FF00F6&icon_color=FF00F6&theme=jolly" height="170" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Ayko&layout=compact&langs_count=6&title_color=FF00F6&bg_color=000&text_color=FFF&border_radius=3&border_color=FF00F6" height="170" alt="Most Used Languages"/>
-</div>
-
----
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Coding-Ayko/Coding-Ayko/output/github-contribution-grid-snake-dark.svg">
