@@ -4,25 +4,34 @@
   </a>
 </div>
 
-<img align="center" alt="Header" src="./src/header-gif.gif">
+</br>
+<h1 align="center"> Olá, eu sou a <strong>Tauane Carolina</strong>!</h1>
+<br> 
 
-
-# 🌸 Olá, eu sou a **Tauane Carolina**!  
-<p align="center">
-🎓 Estudante de <strong>Ciência da Computação</strong> no Centro Universitário Barão de Mauá (2023–2026).<br>
-Desenvolvedora <strong>Full Stack</strong> (Laravel, PHP, Vue.js, SQL).<br>
- Atualmente aprendendo <strong>C#/.NET</strong> e <strong>React.js</strong>.<br>
- Apaixonada por tecnologia, dados e interfaces bonitas.
+<p align="left">
+   <img src="https://img.icons8.com/ios-filled/20/FF00F6/student-male.png"/> Sou universitária de <strong>Ciência da Computação</strong> no Centro Universitário Barão de Mauá.<br>
+   <img src="https://img.icons8.com/ios-filled/20/FF00F6/laptop.png"/> Atuo como desenvolvedora <strong>Full Stack</strong>, apaixonada por tecnologia, cálculos, dados e interfaces bonitas.<br>
+ Gosto de dar sentido ao que faço, unindo lógica, criatividade e propósito em cada projeto!
 </p>
+
+</br>
+</br>
+
+<img align="right" alt="Dev girl" height="190px" src="https://i.pinimg.com/originals/4e/0e/0b/4e0e0b0e9c8a8ab97c9c63f9497a0a54.gif">
 
 <div align="center">
   <a href="https://github.com/coding-ayko">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=coding-ayko&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=false"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-ayko&layout=compact&langs_count=7&theme=ambient_gradient"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=coding-ayko&show_icons=true&include_all_commits=true&count_private=false&hide=issues&line_height=26&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&border_color=FF00F6&icon_color=FF00F6" alt="GitHub Stats"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-ayko&layout=compact&langs_count=6&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&border_color=FF00F6" alt="Top Langs"/>
   </a>
 </div>
+</br>
+</br>
 
-## My Stack
+  <div align="center">
+  <video src="https://v1.pinimg.com/videos/mc/720p/f4/df/fe/f4dffe71421fc283413ce2537b950f5f.mp4" width="400" controls loop muted></video>
+</div>
+
 
 <div align="center">
 
@@ -32,12 +41,21 @@ Desenvolvedora <strong>Full Stack</strong> (Laravel, PHP, Vue.js, SQL).<br>
 
 </div>
 
----
+</br>
+</br>
 
-<img align="center" alt="Study gif" height="190px" src="./src/study.gif">
+<div align="center">
+<a href="mailto:tauane581730@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6"></a>
+<a href="https://www.linkedin.com/in/tauane-carolina-oliveira-miranda-dos-santos-606599244/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6"></a>
+<a href="https://www.instagram.com/whos.ayko/"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6"></a>
+<a href="https://github.com/Coding-Ayko"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6"></a>
+</div>
 
-## 📬 Connect with me
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6)](mailto:tauane581730@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/tauane-carolina-oliveira-miranda-dos-santos-606599244/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/whos.ayko/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://github.com/Coding-Ayko)
+</br>
+</br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/leereilly/leereilly/master/images/breakout-light.svg" height="100%"/>
+</div>
+
+
