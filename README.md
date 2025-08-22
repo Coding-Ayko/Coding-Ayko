@@ -5,6 +5,8 @@
 </div>
 
 </br>
+</br>
+
 <h1 align="center"> Olá, eu sou a <strong>Tauane Carolina</strong>!</h1>
 <br> 
 
