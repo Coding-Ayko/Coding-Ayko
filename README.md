@@ -9,7 +9,7 @@
 <h1 align="center"> Olá, eu sou a <strong>Tauane Carolina</strong>!</h1>
 <br> 
 
-<p align="center">
+<p align="left">
    <img src="https://img.icons8.com/ios-filled/20/FF00F6/student-male.png"/> Sou universitária de <strong>Ciência da Computação</strong> no Centro Universitário Barão de Mauá.<br>
    <img src="https://img.icons8.com/ios-filled/20/FF00F6/laptop.png"/> Atuo como desenvolvedora <strong>Full Stack</strong>, apaixonada por tecnologia, cálculos, dados e interfaces bonitas.<br>
  Gosto de dar sentido ao que faço, unindo lógica, criatividade e propósito em cada projeto!
