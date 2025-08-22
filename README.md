@@ -4,95 +4,79 @@
   </a>
 </div>
 
-Olá, eu sou a Tauane Carolina!
+<img align="center" alt="" src="./src/header-gif.gif">
 
-<div align="center">
-  <a href="https://github.com/coding-ayko">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=coding-ayko&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=false"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-ayko&layout=compact&langs_count=7&theme=ambient_gradient"/>
+#
+
+<p align="center">
+Sou a <strong>Tauane Carolina</strong>, estudante de <strong>Ciência da Computação</strong> no Centro Universitário Barão de Mauá (2023–2026).  
+Atualmente atuo como <strong>Desenvolvedora Full Stack</strong> com foco em <strong>Laravel/PHP, MySQL/SQL Server</strong> e frontend com <strong>Blade, Tailwind e Vue.js</strong>.  
+Apaixonada por transformar ideias em soluções e por aprender sempre mais, especialmente sobre <strong>C#/.NET e React</strong>.  
+</p>
+
+#
+
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
+<h3 align="left">📬 Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:tauane581730@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/tauane-carolina-oliveira-miranda-dos-santos-606599244/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/whos.ayko/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6&color:FFF)](https://github.com/Coding-Ayko)  
+
+#
+
+<h3 align="left">🛠️ My Stack ~</h3>
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="25" alt="java logo"/>
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="25" alt="c++ logo"/>
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="25" alt="php logo"/>
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25" alt="python logo"/>
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"/>
+  <img width="8" />
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="25" alt="laravel logo"/>
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="25" alt="tailwind logo"/>
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="25" alt="vue logo"/>
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"/>
+  <img width="8" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="25" alt="sql server logo"/>
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="25" alt="docker logo"/>
+  <img width="8" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="25" alt="figma logo"/>
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="25" alt="photoshop logo"/>
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="25" alt="aws logo"/>
+  <img width="8" />
+  <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" height="25" alt="github actions logo"/>
+</div>
+
+#
+
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Coding-Ayko&hide_title=true&show_icons=true&include_all_commits=true&count_private=false&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+
+  <a href="https://github.com/Coding-Ayko/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Ayko&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=false&langs_count=6&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760" alt="Most Used Languages">
   </a>
 </div>
 
-<br><br>
+#
 
-<div align="center">
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!--   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-  <img align="center" alt="PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
-</div>
-
-</div>
-
----
-
-## ✨ Sobre mim
-- Estudante de **Ciência da Computação** e dev focada em **Web**  
-- Experiência com **Laravel/PHP**, **MySQL/SQL Server**, **Tailwind/Blade/Vue**  
-- Curto transformar requisitos em **interfaces bonitas** e **dados em dashboards** (Power BI)  
-- Sempre aprendendo: **C#/.NET** e **React**  
-
----
-
-## 🛠️ Tecnologias (My Stack)
-
-### 🔹 Linguagens
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</div>
-
-### 🔹 Frameworks
-<div style="display: inline_block"><br>
-  <img align="center" alt="Laravel" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
-  <img align="center" alt="Blade" height="28" width="100" src="https://img.shields.io/badge/Blade-E34F26?style=for-the-badge&logo=laravel&logoColor=white">
-  <img align="center" alt="Tailwind" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Vue" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-</div>
-
-### 🔹 Banco de Dados
-<div style="display: inline_block"><br>
-  <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="SQL Server" height="40" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
-</div>
-
-### 🔹 Ferramentas
-<div style="display: inline_block"><br>
-  <img align="center" alt="Power BI" height="40" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
-  <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-  <img align="center" alt="Photoshop" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
-</div>
-
-### 🔹 DevOps & Cloud
-<div style="display: inline_block"><br>
-  <img align="center" alt="GitHub Actions" height="40" width="40" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4">
-  <img align="center" alt="AWS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="Docker (CI/CD)" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</div>
-
-### 🔹 Práticas
-- POO • MVC • SOLID • Clean Code
-
----
-
-## 📬 Contato
-<div> 
-  <a href="https://instagram.com/whos.ayko" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:tauane581730@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/tauane-carolina-oliveira-miranda-dos-santos-606599244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</div>
-
----
-
-<div align="center">
-  ✨ _“Sempre em evolução, um commit de cada vez!”_ ✨
-</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Coding-Ayko/Coding-Ayko/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Coding-Ayko/Coding-Ayko/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Coding-Ayko/Coding-Ayko/output/github-contribution-grid-snake.svg">
+</picture>
