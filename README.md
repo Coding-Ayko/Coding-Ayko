@@ -10,12 +10,10 @@
 # 🌸 Olá, eu sou a **Tauane Carolina**!  
 <p align="center">
 🎓 Estudante de <strong>Ciência da Computação</strong> no Centro Universitário Barão de Mauá (2023–2026).<br>
-💼 Desenvolvedora <strong>Full Stack</strong> (Laravel, PHP, Vue.js, SQL).<br>
-🌱 Atualmente aprendendo <strong>C#/.NET</strong> e <strong>React.js</strong>.<br>
-✨ Apaixonada por tecnologia, dados e interfaces bonitas.
+Desenvolvedora <strong>Full Stack</strong> (Laravel, PHP, Vue.js, SQL).<br>
+ Atualmente aprendendo <strong>C#/.NET</strong> e <strong>React.js</strong>.<br>
+ Apaixonada por tecnologia, dados e interfaces bonitas.
 </p>
-
-## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/coding-ayko">
@@ -24,7 +22,7 @@
   </a>
 </div>
 
-## 🛠️ My Stack
+## My Stack
 
 <div align="center">
 
@@ -43,13 +41,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/tauane-carolina-oliveira-miranda-dos-santos-606599244/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/whos.ayko/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://github.com/Coding-Ayko)
-
----
-
-
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Coding-Ayko/Coding-Ayko/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Coding-Ayko/Coding-Ayko/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Coding-Ayko/Coding-Ayko/output/github-contribution-grid-snake.svg">
-</picture>
