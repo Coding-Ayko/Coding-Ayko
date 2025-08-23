@@ -48,8 +48,8 @@
 <div align="center">
 <a href="mailto:tauane581730@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6"></a>
 <a href="https://www.linkedin.com/in/tauane-carolina-oliveira-miranda-dos-santos-606599244/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6"></a>
-<a href="https://www.instagram.com/whos.ayko/"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6"></a>
-<a href="https://github.com/Coding-Ayko"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6"></a>
+<!-- <a href="https://www.instagram.com/whos.ayko/"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6"></a>
+<a href="https://github.com/Coding-Ayko"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6"></a> -->
 </div>
 
 </br>
