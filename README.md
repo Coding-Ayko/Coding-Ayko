@@ -11,7 +11,7 @@
 
 <p align="left">
    <img src="https://img.icons8.com/ios-filled/20/FF00F6/student-male.png"/> Sou universitária de <strong>Ciência da Computação</strong>.<br>
-   <img src="https://img.icons8.com/ios-filled/20/FF00F6/laptop.png"/> Atuo como desenvolvedora <strong>Full Stack</strong> e Analista Júnior no Tribunal de Justiça do Estado de São Paulo! Sou apaixonada por tecnologia, cálculos, dados e interfaces bonitas.<br>
+   <img src="https://img.icons8.com/ios-filled/20/FF00F6/laptop.png"/> Atuo como desenvolvedora <strong>Full Stack</strong> e Analista Plena no Tribunal de Justiça do Estado de São Paulo! Sou apaixonada por tecnologia, cálculos, dados e interfaces bonitas.<br>
  Gosto de dar sentido ao que faço, unindo lógica, criatividade e propósito em cada projeto!
 </p>
 
